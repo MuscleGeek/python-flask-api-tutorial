@@ -25,6 +25,9 @@
             "reset",
             "build",
             "test",
+            "reset",
+            "build",
+            "test",
             "reset"
         ]
     },
@@ -138,7 +141,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 3,
@@ -173,7 +176,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 4,
@@ -208,7 +211,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 5,
@@ -243,7 +246,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 6,
@@ -303,7 +306,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 8,
@@ -363,7 +366,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 10,
@@ -398,7 +401,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 11,
@@ -503,7 +506,7 @@
                     "hidden": true
                 }
             ],
-            "done": true
+            "done": false
         },
         {
             "position": 14,
@@ -525,6 +528,11 @@
                 {
                     "path": ".learn/exercises/08-delete-todo/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": ".learn/exercises/08-delete-todo/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
